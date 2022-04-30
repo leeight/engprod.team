@@ -23,7 +23,7 @@ We explore better development concepts and practices, build better developer pro
 
 ## Where are we?
 
-- China Mainland  
+- Mainland China  
   Beijing / Shanghai / Hangzhou / Shenzhen / Guangzhou / Xiamen
 - Singapore  
 - United States  
