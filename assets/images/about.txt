@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Covered By Your Grace
+- Font Author: Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com)
+- Font Source: http://fonts.gstatic.com/s/coveredbyyourgrace/v15/QGYwz-AZahWOJJI9kykWW9mD6opopoqXSOS0FgItq6bFIg.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
