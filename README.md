@@ -37,8 +37,7 @@ Senior Software Engineer @ [Beijing](https://jobs.bytedance.com/experienced/posi
 
 This team is committed to building the industry's best low-code and design collaboration tools, reinventing the collaboration model of R&D, design, and product through better products and tools.
 
-Senior Software Engineer @ [Beijing](https://jobs.bytedance.com/experienced/position/7083681217732135199/detail?use_ssr=1) / [Hangzhou](https://jobs.bytedance.com/experienced/position/7083680015951792414/detail?use_ssr=1) / [Shanghai](https://jobs.bytedance.com/experienced/position/7083680665875056910/detail?use_ssr=1)
-
+Senior Software Engineer @ [Beijing](https://jobs.bytedance.com/experienced/position/7083681217732135199/detail?use_ssr=1) / [Hangzhou](https://jobs.bytedance.com/experienced/position/7083680015951792414/detail?use_ssr=1)
 
 ### Measure Team
 
@@ -50,7 +49,7 @@ Senior Software Engineer @ [Beijing](https://jobs.bytedance.com/experienced/posi
 ## Where are we?
 
 - 🇨🇳Mainland China  
-  Beijing / Shanghai / Hangzhou / Shenzhen / Guangzhou / Xiamen
+  Beijing / Shanghai / Hangzhou / Shenzhen / Guangzhou
 - 🇸🇬Singapore  
 - 🇺🇸United States  
   Seattle / Mountain View
