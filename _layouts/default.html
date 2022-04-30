@@ -18,10 +18,12 @@
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        {% if page.url == "/zh-cn.html" or page.url == "/index.html" or page.url == "/" %}
         <section id="i18n">
           <a href="/">English</a>
           <a href="/zh-cn.html">简体中文</a>
         </section>
+        {% endif %}
         <section id="downloads">
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
