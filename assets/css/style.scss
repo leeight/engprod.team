@@ -3,6 +3,10 @@
 
 @import 'jekyll-theme-hacker';
 
+#a-title h1 em {
+    font-style: normal;
+    color: $rajah;
+}
 #main_content p.view {
     font-style: italic;
 }
