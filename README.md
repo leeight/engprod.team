@@ -1,12 +1,12 @@
 ## About Us
 
-建设先进的软件研发与协作产品.
+我的愿景是建设先进的软件研发与协作产品.
 
 Our vision is to provide an advanced way to build software at scale.
 
 We explore better development concepts and practices, build better developer products, improve developer experience, and continue to improve the overall R&D efficiency and quality of the business.
 
-### Our teams
+## Our teams
 
 - DevOps Team  
   专注于打造业界领先的效能平台，推动 DevOps 一体化在字节跳动的实施和落地。
@@ -21,7 +21,7 @@ We explore better development concepts and practices, build better developer pro
 - Measure Team  
   专注于打造业界领先的效能度量体系，以数字驱动公司研发效能的提升。
 
-### Where are we?
+## Where are we?
 
 - China Mainland  
   Beijing / Shanghai / Hangzhou / Shenzhen / Guangzhou / Xiamen
@@ -29,7 +29,7 @@ We explore better development concepts and practices, build better developer pro
 - United States  
   Seattle / Mountain View
 
-### Opening Jobs
+## Opening Jobs
 
 - [高级研发工程师 - 效能体系 - Serverless方向](https://jobs.bytedance.com/experienced/position?keywords=%E6%95%88%E8%83%BD%E4%BD%93%E7%B3%BB)
 - [高级研发工程师 - 效能体系 - 协同工具方向](https://jobs.bytedance.com/experienced/position?keywords=%E6%95%88%E8%83%BD%E4%BD%93%E7%B3%BB)
@@ -38,3 +38,8 @@ We explore better development concepts and practices, build better developer pro
 - [高级研发工程师 - 效能体系 - 度量方向](https://jobs.bytedance.com/experienced/position?keywords=%E6%95%88%E8%83%BD%E4%BD%93%E7%B3%BB)
 - [高级研发工程师 - 效能体系 - DevOps方向](https://jobs.bytedance.com/experienced/position?keywords=%E6%95%88%E8%83%BD%E4%BD%93%E7%B3%BB)
 - [解决方案架构师 - 效能体系 - DevOps方向](https://jobs.bytedance.com/experienced/position?keywords=%E6%95%88%E8%83%BD%E4%BD%93%E7%B3%BB)
+
+## References
+
+- <https://linearb.io>
+- <https://cloud.google.com/devops>
